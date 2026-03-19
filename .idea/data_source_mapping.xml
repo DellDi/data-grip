@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/cw/fixed-discount.sql" value="64185efb-3d26-4618-9f45-edd53710d31f" />
     <file url="file://$PROJECT_DIR$/ms/美盛数据核对.sql" value="415cd5d0-1278-494f-ba64-0a35df6a8971" />
   </component>
 </project>
