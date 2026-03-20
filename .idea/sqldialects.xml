@@ -4,6 +4,14 @@
     <file url="file://$PROJECT_DIR$/cw/fixed-discount.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/dip3/fix-charge.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/ms/美盛数据核对.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/hr/zy-exam/pre_statistics_monthly.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/hr/zy/pre_statistics_monthly.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/check/diagnosis_71015_personnel.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/check/diagnosis_71016_training_exam.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/check/diagnosis_71107_standard.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/pre_statistics_monthly-1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/pre_statistics_monthly-2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/quality/zy/pre_statistics_monthly.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>

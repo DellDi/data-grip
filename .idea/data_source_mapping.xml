@@ -3,5 +3,13 @@
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/cw/fixed-discount.sql" value="64185efb-3d26-4618-9f45-edd53710d31f" />
     <file url="file://$PROJECT_DIR$/ms/美盛数据核对.sql" value="415cd5d0-1278-494f-ba64-0a35df6a8971" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/hr/zy-exam/pre_statistics_monthly.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/hr/zy/pre_statistics_monthly.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/check/diagnosis_71015_personnel.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/check/diagnosis_71016_training_exam.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/check/diagnosis_71107_standard.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/pre_statistics_monthly-1.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/o2o-visitor-stats/scripts/sql/zy-monthly-regulation/pre_statistics_monthly-2.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
+    <file url="file://$PROJECT_DIR$/../open-code/temp/quality/zy/pre_statistics_monthly.sql" value="ad2c206c-888c-4cfa-b151-e50ebc8fef62" />
   </component>
 </project>
